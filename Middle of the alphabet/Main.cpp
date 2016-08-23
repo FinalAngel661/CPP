@@ -3,7 +3,7 @@
 
 int main()
 {
-	
+	/*
 	printf("Enter 2 letters in the alphabet to find the middle letter between them.\n");
 	
 	if
@@ -30,17 +30,19 @@ int main()
 			getchar();
 
 		};;
+*/	
 	
-	/*
+	printf("Enter 2 letters in the alphabet to find the middle letter between them.\n");
 	char a, b;
-	scanf_s("%c %c", &a, 1, &b, 1, &A, 1, &B, 1);
+	scanf_s("%c %c", &a, 1, &b, 1);
 	getchar();
 
 	int middle = (a + b) / 2;
 
 	printf("The middle letter is: %c", middle);
 	getchar();
-	*/
+	system("pause");
+	
 	
 
 	/*
