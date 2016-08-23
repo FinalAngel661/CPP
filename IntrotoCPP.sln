@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Does x equal 100", "Does x 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ascending Descending", "Ascending Descending\Ascending Descending.vcxproj", "{8EFC7570-DA47-47C4-8972-BAF12ECF3484}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "If to Switch", "If to Switch\If to Switch.vcxproj", "{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{8EFC7570-DA47-47C4-8972-BAF12ECF3484}.Release|x64.Build.0 = Release|x64
 		{8EFC7570-DA47-47C4-8972-BAF12ECF3484}.Release|x86.ActiveCfg = Release|Win32
 		{8EFC7570-DA47-47C4-8972-BAF12ECF3484}.Release|x86.Build.0 = Release|Win32
+		{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}.Debug|x64.ActiveCfg = Debug|x64
+		{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}.Debug|x64.Build.0 = Debug|x64
+		{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}.Debug|x86.ActiveCfg = Debug|Win32
+		{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}.Debug|x86.Build.0 = Debug|Win32
+		{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}.Release|x64.ActiveCfg = Release|x64
+		{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}.Release|x64.Build.0 = Release|x64
+		{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}.Release|x86.ActiveCfg = Release|Win32
+		{057EF2E4-91AA-4162-86B7-27D2EEA0BADF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
